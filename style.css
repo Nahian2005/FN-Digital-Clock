@@ -1,0 +1,47 @@
+div{
+
+    text-align: center;
+
+    margin-top: 15rem;
+}
+
+#h{
+
+
+color: #fff685;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+font-size: 6rem;
+
+
+background-image: linear-gradient(to right ,#553c9a, #ee4b2b, #00c2cb, #ff7f50, #553c9a);
+
+background-size: 200%;
+background-position: -200%; 
+}
+
+.d{
+
+
+    text-align: center;
+    font-size:30px; font-weight:300; color:#bb9e9e; letter-spacing:1px;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  
+
+}
+
+body{
+
+    background-color: darkslategray;
+}
+
+.e{
+
+    text-align: center;
+    font-size:10px; font-weight:200; color:tomato; letter-spacing:1px;
+   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+}
